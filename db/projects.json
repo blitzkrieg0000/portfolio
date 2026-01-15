@@ -19,8 +19,8 @@
     },
     {
         "id": 2,
-        "title": "Transformer Artitecture",
-        "slug": "transformer-artitecture",
+        "title": "Transformer Architecture",
+        "slug": "transformer-architecture",
         "summary": "An article detailing the logic behind the operation of transformers.",
         "content": "An article detailing the logic behind the operation of transformers.",
         "tags": [
