@@ -31,7 +31,7 @@
         ],
         "github_url": "https://medium.com/@blitzkrieg0000/transformers-b46b8b1475dc",
         "demo_url": null,
-        "image_url": "/asset/image/transformers.png",
+        "image_url": "asset/image/transformers.png",
         "video_url": null,
         "is_featured": true,
         "created_at": "2026-01-11T20:26:17.821Z"
@@ -49,7 +49,7 @@
         ],
         "github_url": "https://miro.com/app/board/uXjVJLsUa0A=/?share_link_id=848945363325",
         "demo_url": null,
-        "image_url": "/asset/image/object-detection.png",
+        "image_url": "asset/image/object-detection.png",
         "video_url": null,
         "is_featured": true,
         "created_at": "2026-01-11T20:26:17.828Z"
@@ -67,7 +67,7 @@
         ],
         "github_url": "https://miro.com/app/board/uXjVJLuBSDE=/",
         "demo_url": null,
-        "image_url": "/asset/image/design-patterns.png",
+        "image_url": "asset/image/design-patterns.png",
         "video_url": null,
         "is_featured": false,
         "created_at": "2026-01-11T20:26:17.828Z"
@@ -88,7 +88,7 @@
         ],
         "github_url": "https://huggingface.co/spaces/blitzkrieg0000/geospatial",
         "demo_url": null,
-        "image_url": "/asset/image/lulc.png",
+        "image_url": "asset/image/lulc.png",
         "video_url": null,
         "is_featured": false,
         "created_at": "2026-01-11T20:26:17.828Z"
@@ -106,7 +106,7 @@
         ],
         "github_url": "https://huggingface.co/spaces/blitzkrieg0000/CablePoleSegmentation",
         "demo_url": null,
-        "image_url": "/asset/image/pole-detection.png",
+        "image_url": "asset/image/pole-detection.png",
         "video_url": null,
         "is_featured": false,
         "created_at": "2026-01-11T20:26:17.828Z"
@@ -123,7 +123,7 @@
         ],
         "github_url": "https://huggingface.co/spaces/blitzkrieg0000/IsolatorFaultDetection",
         "demo_url": null,
-        "image_url": "/asset/image/insulator.png",
+        "image_url": "asset/image/insulator.png",
         "video_url": null,
         "is_featured": false,
         "created_at": "2026-01-11T20:26:17.828Z"
@@ -141,7 +141,7 @@
         ],
         "github_url": "https://huggingface.co/spaces/blitzkrieg0000/BirdNestDetection",
         "demo_url": null,
-        "image_url": "/asset/image/bird-nest.png",
+        "image_url": "asset/image/bird-nest.png",
         "video_url": null,
         "is_featured": false,
         "created_at": "2026-01-11T20:26:17.828Z"
